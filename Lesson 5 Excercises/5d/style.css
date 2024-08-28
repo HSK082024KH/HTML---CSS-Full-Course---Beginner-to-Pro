@@ -1,0 +1,27 @@
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: arial;
+}
+
+.main-text {
+  font-weight: bold;
+  font-size: 22px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.bottom-text {
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#click-button {
+  font-family: arial;
+  font-size: 14px;
+  margin-left: 260px;
+  border: none;
+  background-color: white;
+  color: rgb(88, 88, 252);
+}

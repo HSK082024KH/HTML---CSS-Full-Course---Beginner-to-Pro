@@ -1,0 +1,38 @@
+* {
+  margin: 0 auto;
+}
+
+#profile-picture {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 180px;
+  vertical-align: middle;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.main-text {
+  vertical-align: middle;
+  margin-top: -60px;
+  margin-left: 130px;
+}
+
+#tweet-button {
+  font-weight: bold;
+  margin-top: -35px;
+  margin-left: 400px;
+  vertical-align: middle;
+  background-color: rgb(29, 161, 242);
+  color: white;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+}
+
+.box-around {
+  margin-top: 40px;
+  width: 520px;
+  height: 120px;
+  box-shadow: 0px 0px 4px 4px rgba(0, 0, 0, 0.2);
+}

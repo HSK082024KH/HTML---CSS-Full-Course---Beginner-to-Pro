@@ -1,0 +1,43 @@
+a:hover {
+  color: rgb(169, 110, 0);
+}
+
+h2 {
+  color: green;
+}
+.add-button {
+  background-color: yellow;
+  width: 140px;
+  height: 30px;
+  font-size: 15px;
+  border-radius: 70px;
+  border: none;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.add-button:hover {
+  background-color: rgb(196, 196, 2);
+}
+
+.add-button:active {
+  opacity: 0.5;
+}
+
+.buy-button {
+  background-color: orange;
+  width: 120px;
+  height: 30px;
+  font-size: 15px;
+  border-radius: 60px;
+  border: none;
+  cursor: pointer;
+}
+
+.buy-button:hover {
+  background-color: rgb(184, 121, 3);
+}
+
+.buy-button:active {
+  opacity: 0.5;
+}

@@ -1,0 +1,49 @@
+.first-text {
+  margin: 0px 0px 8px 5px;
+  width: 120px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  border-radius: 5px;
+  font-size: 12px;
+  border: none;
+  box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.second-text {
+  margin: 0px 0px 8px 0px;
+  width: 120px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  border-radius: 5px;
+  font-size: 12px;
+  border: none;
+  box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.email-text {
+  display: block;
+  margin: 0px 0px 8px 5px;
+  width: 250px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  border-radius: 5px;
+  font-size: 12px;
+  border: none;
+  box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.signup-button {
+  display: block;
+  margin-left: 5px;
+  width: 260px;
+  background-color: rgb(77, 77, 245);
+  border: none;
+  color: white;
+  border-radius: 5px;
+  font-size: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
